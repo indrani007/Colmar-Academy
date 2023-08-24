@@ -6,9 +6,9 @@
 
 :root {
     --dark-grey: #3c3b3d;
-    --light-grey: #8e8e8e;
-    --lighter-grey: #dfdfdf;
-    --lightest-grey: #e9e9e9;
+    --light-grey: #ff0000;
+    --lighter-grey: #096c69;
+    --lightest-grey: #096c69;
 }
 
 
@@ -158,7 +158,7 @@ News section
 
 .orientation, .campus, .guest {
     display: flex;
-    border: 1px solid var(--lighter-grey);
+    border: 1px solid var();
     padding: 2%;
 }
 
